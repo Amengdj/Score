@@ -38,5 +38,6 @@ public class Lian1_522 {
 			
 		}
 		System.out.println("总共能够组成" + d + "个数字！");
+		System.out.println("1111111111111111");
 	}
 }
